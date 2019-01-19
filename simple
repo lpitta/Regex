@@ -8,6 +8,8 @@ bat
 pat
 cat
 mat
+cat
+
 
 MetaCharacters (Need to be escaped):
 .[{()\^$|?*+
